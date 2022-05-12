@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi, I’m Mikhail 👋
 
-<!--
-**ixth/ixth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m poking browser with a stick (metaphorically) since late 00’s.
+I worked at Yandex, Lazada, HH, and even TradingView in it’s early stage of development.
 
-Here are some ideas to get you started:
+I like making complex UI components, mostly using React, Redux and Typescript.
+But I can also set up your CI pipeline or fix it if it’s too slow or optimize Dockerfile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience of leading a team of five-ish people: screening, interviewing, onboarding and mentoring.
+
+***
+
+When I run into a bug or a typo in open-source software I fix it.
+Here’s a list of such contributions: [CONTRIBUTIONS.md](./CONTRIBUTIONS.md)
+
+***
+
+<img align=left src="https://github-readme-stats.vercel.app/api?username=ixth&theme=cobalt2&hide_rank=true" />
+<img align=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixth&theme=cobalt2&layout=compact" />
