@@ -2,7 +2,7 @@
 
 Poking browser with a stick since 2007.
 
-I worked at <a href="https://yandex.ru/company">Yandex</a>, <a href="https://www.lazada.com/en/">Lazada</a>, <a href="https://hh.ru/article/28">HH</a>, and <a href="https://www.tradingview.com/">TradingView</a>.
+I worked at <a href="https://indrive.com/en/our-story/">inDrive</a>, <a href="https://yandex.ru/company">Yandex</a>, <a href="https://www.lazada.com/en/">Lazada</a>, <a href="https://hh.ru/article/28">HH</a>, and <a href="https://www.tradingview.com/">TradingView</a>.
 
 I like making complex UI components, mostly using React, Redux and Typescript.
 But I can also set up your CI pipeline or optimize a Dockerfile.
